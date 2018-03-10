@@ -1,2 +1,4 @@
 # separator
-A packet to separate array to two parts by rule
+The class to separate an array to two parts by rule
+
+**To run tests:** vendor/bin/phpunit
